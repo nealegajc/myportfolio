@@ -1,66 +1,66 @@
-# 🎨 Student Portfolio
+#  Student Portfolio
 
-A modern, responsive student portfolio website showcasing personal information, skills, projects, and professional experience. Built with HTML5, CSS3, and Bootstrap 5 featuring a stunning glassmorphism design theme.
+Portfolio website showcasing personal information, skills, projects, and professional experience. Built with HTML5, CSS3, and Bootstrap 5 featuring a stunning glassmorphism design theme.
 
-## 🌟 Features
+##  Features
 
-### ✨ **Modern Glassmorphism Design**
+###  **Modern Glassmorphism Design**
 - Transparent glass cards with backdrop blur effects
 - Gradient backgrounds with floating animated elements
 - Smooth hover animations and transitions
 - Professional color scheme with consistent theming
 
-### 📱 **Fully Responsive**
+###  **Fully Responsive**
 - Mobile-first responsive design
 - Bootstrap 5.3.2 grid system
 - Optimized for desktop, tablet, and mobile devices
 - Cross-browser compatibility
 
-### 🧭 **Interactive Navigation**
+###  **Interactive Navigation**
 - Fixed glass navigation bar
 - Smooth scrolling to sections
 - Active section highlighting
 - Mobile hamburger menu
 
-## 📋 Portfolio Sections
+##  Portfolio Sections
 
-### 1. **About Me** 👤
+### 1. **About Me** 
 - Personal introduction and background
 - Professional profile photo
 - Personal statement and goals
 - Contact links and social media
 
-### 2. **Education** 🎓
+### 2. **Education** 
 - Academic background and qualifications
 - Institution details with visual presentation
 - Current studies information
 
-### 3. **Skills & Hobbies** 🔧
+### 3. **Skills & Hobbies** 
 - Technical skills showcase
 - Programming languages and technologies
 - Personal hobbies and interests
 - Skill proficiency indicators
 
-### 4. **Work Experience** 💼
+### 4. **Work Experience** 
 - Professional employment history
 - Interactive company cards with external links
 - Job roles, responsibilities, and achievements
 - Employment timeline and status indicators
 
-### 5. **Projects** 💻
+### 5. **Projects** 
 - Featured development projects
 - Technology stack badges
 - Project descriptions and features
 - Direct GitHub repository links
 - Categorized by project type (C++, PHP, Frontend, Full-Stack)
 
-### 6. **Contact Information** ✉️
+### 6. **Contact Information** ✉
 - Multiple contact methods
 - Professional contact details
 - Social media links
 - Location information
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### **Frontend**
 - **HTML5** - Semantic markup and structure
@@ -76,7 +76,7 @@ A modern, responsive student portfolio website showcasing personal information, 
 - **Responsive Design** - Mobile-first approach
 - **Custom CSS Variables** - Consistent theming
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 portfolio/
